@@ -1,9 +1,11 @@
 {
-    "name": "BonsaiStandardAssembly",
+    "name": "BonsaiBehaviourTree.Editor",
     "references": [
-        "GUID:e663252ae8cdac9448492a619a23dbb5"
+        "BonsaiBehaviourTree"
     ],
-    "includePlatforms": [],
+    "includePlatforms": [
+        "Editor"
+    ],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": false,

@@ -1,11 +1,12 @@
 {
-    "name": "BonsaiTestsAssembly",
+    "name": "BonsaiBehaviourTree.Editor.Tests",
     "references": [
         "UnityEngine.TestRunner",
         "UnityEditor.TestRunner",
-        "BonsaiAssembly",
-        "BonsaiStandardAssembly"
+        "BonsaiBehaviourTree",
+        "BonsaiBehaviourTree.Editor"
     ],
+    "optionalUnityReferences": [],
     "includePlatforms": [
         "Editor"
     ],
@@ -18,7 +19,5 @@
     "autoReferenced": false,
     "defineConstraints": [
         "UNITY_INCLUDE_TESTS"
-    ],
-    "versionDefines": [],
-    "noEngineReferences": false
+    ]
 }

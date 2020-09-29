@@ -1,0 +1,12 @@
+{
+  "name": "com.bonsaibehaviourtree",
+  "version": "0.8.1",
+  "unity": "2019.4",
+  "displayName": "Bonsai Behaviour Tree",
+  "description": "An advanced behaviour tree solution for the Unity game engine.",
+  "keywords": [
+    "behaviour",
+    "tree",
+    "state"
+  ]
+}
